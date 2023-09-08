@@ -30,10 +30,11 @@ export const CmsProductLister = ({
 }: CmsProductListerProps) => {
   const [products, setProducts] = useState<Product[]>();
   const [ads, setAds] = useState<IngridAd[]>();
-  const [cannedSearchTerm] = useCmsContent<string>(searchControlId);
+  const [cannedSearchTerm = defaultCannedSearch] =
+    useCmsContent<string>(searchControlId);
 
   useEffect(() => {
-    fetchCannedSearch(cannedSearchTerm ?? defaultCannedSearch)
+    fetchCannedSearch(cannedSearchTerm)
       .then((products) => {
         setProducts(products);
       })
