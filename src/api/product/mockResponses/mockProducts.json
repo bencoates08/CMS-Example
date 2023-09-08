@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Apple",
+    "imgUrl": "https://healthiersteps.com/wp-content/uploads/2021/12/green-apple-benefits.jpeg",
+    "price": "149"
+  },
+  {
+    "id": "2",
+    "name": "Pear",
+    "imgUrl": "https://westonfruitsales.co.uk/app/uploads/2021/02/Pear-conference-1.jpg",
+    "price": "99"
+  },
+  {
+    "id": "3",
+    "name": "Banana",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/800px-Banana-Single.jpg",
+    "price": "60"
+  },
+  {
+    "id": "4",
+    "name": "Apple",
+    "imgUrl": "https://healthiersteps.com/wp-content/uploads/2021/12/green-apple-benefits.jpeg",
+    "price": "149"
+  },
+  {
+    "id": "5",
+    "name": "Pear",
+    "imgUrl": "https://westonfruitsales.co.uk/app/uploads/2021/02/Pear-conference-1.jpg",
+    "price": "99"
+  },
+  {
+    "id": "6",
+    "name": "Banana",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/800px-Banana-Single.jpg",
+    "price": "60"
+  },
+  {
+    "id": "7",
+    "name": "Apple",
+    "imgUrl": "https://healthiersteps.com/wp-content/uploads/2021/12/green-apple-benefits.jpeg",
+    "price": "149"
+  },
+  {
+    "id": "8",
+    "name": "Pear",
+    "imgUrl": "https://westonfruitsales.co.uk/app/uploads/2021/02/Pear-conference-1.jpg",
+    "price": "99"
+  },
+  {
+    "id": "9",
+    "name": "Apple",
+    "imgUrl": "https://healthiersteps.com/wp-content/uploads/2021/12/green-apple-benefits.jpeg",
+    "price": "149"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ad1",
+    "title": "Ad 1",
+    "imgURL": "https://media.4rgos.it/i/Argos/Fruitandveg_wkyr-m053-plpcontent-template?w=auto&qlt=50&fmt=webp&noiser=0&",
+    "placement": "ingrid1"
+  },
+  {
+    "id": "ad2",
+    "title": "Ad 2",
+    "imgURL": "https://media.4rgos.it/i/Argos/Fruitandveg_wkyr-m053-plpcontent-template?w=auto&qlt=50&fmt=webp&noiser=0&",
+    "placement": "ingrid2"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "heading-id-1",
+    "type": "heading",
+    "name": "Shop Fruit"
+  },
+  {
+    "id": "heading-id-2",
+    "type": "heading",
+    "subType": "h2",
+    "name": "First Controls"
+  },
+  {
+    "id": "quicklinks-id-1",
+    "type": "quick-links",
+    "cannedSearches": [
+      {
+        "name": "Apples",
+        "term": "canned-apple-search"
+      },
+      {
+        "name": "Pears",
+        "term": "canned-pear-search"
+      },
+      {
+        "name": "Bananas",
+        "term": "canned-banana-search"
+      }
+    ]
+  },
+  {
+    "id": "product-lister-id-1",
+    "searchControlId": "quicklinks-id-1",
+    "type": "product-lister",
+    "cannedSearch": "canned-fruit-search"
+  },
+  {
+    "id": "heading-id-3",
+    "type": "heading",
+    "subType": "h2",
+    "name": "Second Controls"
+  },
+  {
+    "id": "quicklinks-id-2",
+    "type": "quick-links",
+    "cannedSearches": [
+      {
+        "name": "Apples",
+        "term": "canned-apple-search"
+      },
+      {
+        "name": "Pears",
+        "term": "canned-pear-search"
+      },
+      {
+        "name": "Bananas",
+        "term": "canned-banana-search"
+      }
+    ]
+  },
+  {
+    "id": "product-lister-id-2",
+    "searchControlId": "quicklinks-id-2",
+    "type": "product-lister",
+    "cannedSearch": "canned-fruit-search"
+  }
+]
