@@ -9,16 +9,16 @@ export const CmsQuickLinks = ({ id, cannedSearches }: CmsQuickLinksProps) => {
   const [searchParams, setSearchParams] = useSearchParams();
 
   const facet = `facet-${id}`;
-  const searchParam = searchParams.get(facet);
+  const queryParam = searchParams.get(facet);
 
   useEffect(() => {
-    if (searchParam) {
+    if (queryParam) {
       dispatch({
         type: "set",
-        state: searchParam,
+        state: queryParam,
       });
     }
-  }, [searchParam, id, dispatch]);
+  }, [queryParam, id, dispatch]);
 
   const handleClick = (cannedSearch: string) => {
     dispatch({
